@@ -1,0 +1,44 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jf@messier.ca",
+    "longName": "GeekClock",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/screenshot.png",
+                "menuIcon": true,
+                "name": "IMAGE_SCREENSHOT",
+                "type": "png"
+            },
+            {
+                "file": "fonts/CHECKBK0.TTF",
+                "name": "FONT_CHECK_38",
+                "type": "font"
+            },
+            {
+                "file": "fonts/CREDC___.ttf",
+                "name": "FONT_CREDITCARD_48",
+                "type": "font"
+            },
+            {
+                "file": "fonts/OSP-DIN_44.ttf",
+                "name": "FONT_OSP_DIN_44",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "GeekClock",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "18a8523a-1bef-4423-b032-0ba8aa2c3cb9",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
